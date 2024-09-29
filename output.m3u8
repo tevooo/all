@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="27516" tvg-name="AYDINLANMA VE GÖLGE 1. BÖLÜM 1. DERS" tvg-logo="https://static.codexservice.com/thumbnails/480c4205-d1fc-46fd-99bb-ced45ac564b5" tvg-language="Turkish" group-title="Ali/Saçan", AYDINLANMA VE GÖLGE 1. BÖLÜM 1. DERS - Ali Saçan
+#EXTINF:-1, Ali Saçan tvg-id="27516" tvg-name="AYDINLANMA VE GÖLGE 1. BÖLÜM 1. DERS" tvg-logo="https://static.codexservice.com/thumbnails/480c4205-d1fc-46fd-99bb-ced45ac564b5" tvg-language="Turkish" group-title="Ali/Saçan", AYDINLANMA VE GÖLGE 1. BÖLÜM 1. DERS - Ali Saçan
 
 https://karinca-video.mncdn.com/smil:f642b698-4889-445f-bf3f-fb4e36a73039_smil.smil/playlist.m3u8
 
